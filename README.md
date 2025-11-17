@@ -4,7 +4,7 @@ A modern, responsive multipage travel agency website showcasing Kenya's best des
 
 ## 🌐 Live Demo
 
-**[Add your deployed URL here after deployment]**
+https://annenjugi.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
 
 ---
 
@@ -100,9 +100,6 @@ project-root/
 ├── images/
 │   └── README.md          # Image guidelines
 │
-├── PROJECT_README.md      # Detailed project documentation
-├── DEPLOYMENT_GUIDE.md    # Step-by-step deployment instructions
-├── ASSIGNMENT_INSTRUCTIONS.md  # Original assignment requirements
 └── README.md              # This file
 ```
 
@@ -125,23 +122,6 @@ project-root/
    - Use a local server (Live Server extension in VS Code)
 
 No build process or dependencies required!
-
----
-
-## 🌐 Deployment Instructions
-
-See [DEPLOYMENT_GUIDE.md](DEPLOYMENT_GUIDE.md) for detailed instructions on deploying to:
-- GitHub Pages
-- Netlify
-- Vercel
-
-Quick deploy with GitHub Pages:
-```bash
-git add .
-git commit -m "Ready for deployment"
-git push origin main
-```
-Then enable GitHub Pages in repository settings.
 
 ---
 
@@ -168,7 +148,7 @@ Then enable GitHub Pages in repository settings.
 - HTML/CSS validated
 
 ### Part 4: Deployment ✓
-- Ready for GitHub Pages/Netlify/Vercel
+- GitHub Pages
 - All links and scripts functional
 - Mobile and desktop tested
 - Shareable URL ready
@@ -222,9 +202,9 @@ Potential improvements:
 
 ## 👨‍💻 Author
 
-**[Your Name]**
-- GitHub: [Your GitHub Profile]
-- Email: [Your Email]
+- Author: Anne Njugi
+- GitHub: AnneNjugi
+- Email: wangarinjugi254@gmail.com
 
 ---
 
@@ -252,4 +232,4 @@ This project fulfills all requirements for the PLP Web Technologies Final Assign
 - ✅ Ready for deployment
 - ✅ Complete documentation
 
-**Live URL**: [Add after deployment]
+**Live URL**: https://annenjugi.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
